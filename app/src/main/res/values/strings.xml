@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="tvname">Name</string>
+    <string name="TVSOG">Size of Group</string>
+    <string name="tvphonenumber">Phone Number</string>
+    <string name="tvName">Name</string>
+    <string name="name" />
+    <string name="smokingarea">Smoking</string>
+    <string name="reserve">RESERVE</string>
+    <string name="reset">RESET</string>
+</resources>
